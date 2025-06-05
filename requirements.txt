@@ -49,7 +49,7 @@ setuptools>=65.5.1 # Snyk vulnerability fix
 
 
 # CLI
-fire
+fire==0.6.0
 # AWS
 boto3>=1.19.1
 # coco to yolov5 conversion
